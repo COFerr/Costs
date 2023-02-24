@@ -1,0 +1,25 @@
+.container{
+    width: 95vw;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    flex-wrap: wrap;
+}
+
+.min-height{
+    min-height: 75%;
+}
+
+.start{
+    justify-content: flex-start;
+}
+
+.column{
+    flex-direction: column;
+    justify-content: start;
+}
+
+.contact_page{
+    align-items: start;
+    justify-content: space-around;
+}
